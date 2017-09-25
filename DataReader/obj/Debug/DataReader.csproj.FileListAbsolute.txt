@@ -1,0 +1,6 @@
+D:\workspace\visual studio\Projects\Github_private\SQLPractice\DataReader\bin\Debug\DataReader.exe.config
+D:\workspace\visual studio\Projects\Github_private\SQLPractice\DataReader\bin\Debug\DataReader.exe
+D:\workspace\visual studio\Projects\Github_private\SQLPractice\DataReader\bin\Debug\DataReader.pdb
+D:\workspace\visual studio\Projects\Github_private\SQLPractice\DataReader\obj\Debug\DataReader.csprojResolveAssemblyReference.cache
+D:\workspace\visual studio\Projects\Github_private\SQLPractice\DataReader\obj\Debug\DataReader.exe
+D:\workspace\visual studio\Projects\Github_private\SQLPractice\DataReader\obj\Debug\DataReader.pdb

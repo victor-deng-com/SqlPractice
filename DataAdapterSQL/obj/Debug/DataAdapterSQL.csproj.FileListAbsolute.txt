@@ -1,0 +1,6 @@
+D:\workspace\visual studio\Projects\Github_private\SQLPractice\DataAdapterSQL\bin\Debug\DataAdapterSQL.exe.config
+D:\workspace\visual studio\Projects\Github_private\SQLPractice\DataAdapterSQL\bin\Debug\DataAdapterSQL.exe
+D:\workspace\visual studio\Projects\Github_private\SQLPractice\DataAdapterSQL\bin\Debug\DataAdapterSQL.pdb
+D:\workspace\visual studio\Projects\Github_private\SQLPractice\DataAdapterSQL\obj\Debug\DataAdapterSQL.csprojResolveAssemblyReference.cache
+D:\workspace\visual studio\Projects\Github_private\SQLPractice\DataAdapterSQL\obj\Debug\DataAdapterSQL.exe
+D:\workspace\visual studio\Projects\Github_private\SQLPractice\DataAdapterSQL\obj\Debug\DataAdapterSQL.pdb

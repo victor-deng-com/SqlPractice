@@ -1,0 +1,6 @@
+D:\workspace\visual studio\Projects\Github_private\SqlPractice\ConnectionSQL\bin\Debug\ConnectionSQL.exe.config
+D:\workspace\visual studio\Projects\Github_private\SqlPractice\ConnectionSQL\bin\Debug\ConnectionSQL.exe
+D:\workspace\visual studio\Projects\Github_private\SqlPractice\ConnectionSQL\bin\Debug\ConnectionSQL.pdb
+D:\workspace\visual studio\Projects\Github_private\SqlPractice\ConnectionSQL\obj\Debug\ConnectionSQL.csprojResolveAssemblyReference.cache
+D:\workspace\visual studio\Projects\Github_private\SqlPractice\ConnectionSQL\obj\Debug\ConnectionSQL.exe
+D:\workspace\visual studio\Projects\Github_private\SqlPractice\ConnectionSQL\obj\Debug\ConnectionSQL.pdb

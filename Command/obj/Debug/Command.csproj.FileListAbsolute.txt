@@ -1,0 +1,5 @@
+D:\workspace\visual studio\Projects\Github_private\SQLPractice\Command\bin\Debug\Command.exe.config
+D:\workspace\visual studio\Projects\Github_private\SQLPractice\Command\bin\Debug\Command.exe
+D:\workspace\visual studio\Projects\Github_private\SQLPractice\Command\bin\Debug\Command.pdb
+D:\workspace\visual studio\Projects\Github_private\SQLPractice\Command\obj\Debug\Command.exe
+D:\workspace\visual studio\Projects\Github_private\SQLPractice\Command\obj\Debug\Command.pdb
